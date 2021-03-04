@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(void){
-	std::cout << "helloWorld\n";
+
+	std::cout << "hello C++\n";
 		return 0;
 }
